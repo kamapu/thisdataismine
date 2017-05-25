@@ -1,0 +1,20 @@
+Package: thisdataismine
+Version: 1.0.1
+Encoding: UTF-8
+Date: 2017-05-25
+Title: Miscellaneous Data Sets
+Author: Miguel Alvarez <kamapu78@gmail.com>
+Maintainer: Miguel Alvarez <kamapu78@gmail.com>
+Depends:
+	R(>= 3.0.0)
+Imports:
+    methods
+Suggests:
+    devtools
+LazyData: true
+Description:
+	This package contains a series of data sets required for tutorials and
+	examples.
+License: GPL (>= 2)
+URL: https://github.com/kamapu/thisdataismine
+BugReports: https://github.com/kamapu/thisdataismine/issues

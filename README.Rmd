@@ -1,6 +1,12 @@
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-
+```{r,echo=FALSE}
+knitr::opts_chunk$set(
+  collapse=TRUE,
+  comment="#>",
+  fig.path="README-"
+)
+```
 
 # thisdataismine
 
@@ -13,8 +19,7 @@ For its installation you require previously and installation of the package
 Then, you can install the last version of `thisdataismine` by following command
 lines:
 
-
-```r
+```{r,eval=FALSE}
 library(devtools)
 install_github("kamapu/thisdataismine")
 ```
