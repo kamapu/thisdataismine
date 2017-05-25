@@ -28,8 +28,8 @@ Miguel Alvarez (\email{kamapu78@gmail.com}).
 \bold{Alvarez M et al. (2012).} SWEA-Dataveg -- Vegetation of small wetlands in
 East Africa. \emph{Biodiversity and Ecology} 4: 294--295.
 
-\bold{Mullenders W (1953).} Contribution a l'étude des groupements végétaux de
-la contrée de Goma-Kisenyi (Kivu-Ruanda). \emph{Vegetatio} 4: 73-83.
+\bold{Mullenders W (1953).} Contribution a l'Ã©tude des groupements vÃ©gÃ©taux de
+la contrÃ©e de Goma-Kisenyi (Kivu-Ruanda). \emph{Vegetatio} 4: 73--83.
 }
 \examples{
 library(thisdataismine)
