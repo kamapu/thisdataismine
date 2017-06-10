@@ -1,12 +1,13 @@
 Package: thisdataismine
-Version: 1.0.1
+Version: 1.0.2
 Encoding: UTF-8
-Date: 2017-05-25
+Date: 2017-06-10
 Title: Miscellaneous Data Sets
 Author: Miguel Alvarez <kamapu78@gmail.com>
 Maintainer: Miguel Alvarez <kamapu78@gmail.com>
 Depends:
-	R(>= 3.0.0)
+	R(>= 3.0.0),
+	taxlist
 Imports:
     methods
 Suggests:
